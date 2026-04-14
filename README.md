@@ -1,5 +1,3 @@
-# APPLEX-TECH-TOOLS-V1
-Termux setup tools and network device commands
 
 pkg update && pkg upgrade
 pkg install git -y
